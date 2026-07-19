@@ -76,29 +76,6 @@ I'm a Software Engineer passionate about building modern web applications and so
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 ResumePilot AI
-AI-powered Resume Reviewer using Large Language Models.
-
-**Tech:** Python, Django, LangChain, OpenAI
-
-### 💬 AI RAG Chatbot
-Context-aware chatbot powered by Retrieval-Augmented Generation.
-
-**Tech:** Python, LangChain, Hugging Face
-
-### 🔐 Authentication API
-Secure authentication and authorization backend.
-
-**Tech:** Django, PostgreSQL, JWT
-
-### 📊 Full-Stack Dashboard
-Responsive analytics dashboard with authentication and reporting.
-
-**Tech:** React, Node.js, PostgreSQL
-
----
 
 ## 📈 GitHub Statistics
 
