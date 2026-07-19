@@ -146,18 +146,6 @@ Responsive analytics dashboard with authentication and reporting.
 
 ---
 
-## 📚 Currently Learning
-
-- Machine Learning
-- Deep Learning Fundamentals
-- LangChain
-- Hugging Face
-- Vector Databases
-- Retrieval-Augmented Generation (RAG)
-- LLM Application Development
-- System Design
-
----
 
 <p align="center">
   <b>Thanks for visiting my profile! ⭐</b>
