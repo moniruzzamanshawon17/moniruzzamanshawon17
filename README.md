@@ -60,9 +60,9 @@ I'm a Software Engineer passionate about building modern web applications and so
 
 ### Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
-</p>
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,linux,nginx,vscode,pycharm,postman" />
 
 ### Machine Learning & Data
 
