@@ -55,7 +55,7 @@ I'm a Software Engineer passionate about building modern web applications and so
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis" />
 </p>
 
 ### Tools & Platforms
