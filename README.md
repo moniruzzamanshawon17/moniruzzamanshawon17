@@ -52,6 +52,7 @@ I'm a Software Engineer passionate about building modern web applications and so
   <img src="https://skillicons.dev/icons?i=nodejs,django,fastapi" />
 </p>
 
+
 ### Databases
 
 <p>
