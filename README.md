@@ -49,11 +49,7 @@ I'm a Software Engineer passionate about building modern web applications and so
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,django,spring" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,django,fastapi" />
 </p>
 
 ### Databases
